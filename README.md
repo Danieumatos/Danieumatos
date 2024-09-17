@@ -4,7 +4,7 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/11985970020)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_danimatos_?igsh=MWpzcjdjZzRzaXpxeA%3D%3D&utm_source=qr)
 
-<img width="44%" src="https://github-readme-stats.vercel.app/api?username=Danieumatos&show_icons=true&theme=tokyonight"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danieumatos&layout=compact">
+<img width="44%" src="https://github-readme-stats.vercel.app/api?username=Danieumatos&show_icons=true&theme=tokyonight"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danieumatos&layout=compact">
 
 ## Tecnologias que uso no meu dia
 
